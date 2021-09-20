@@ -4,7 +4,7 @@
     width: 1300px;
     height: 250px;
     flex-wrap: wrap;
-    margin-left: 22px;
+    margin-left: 20px;
     margin-top: -15px;
     
 }
@@ -28,7 +28,7 @@
 }
 
 .menu-imagen{
-    margin: 0px 0px 0px 0px;
+    margin: 0px;
     position: relative;
     
 }
@@ -50,7 +50,7 @@
 }
 .imagenes-3-1{
     background-color: #ddd9d9;
-    height: 230px;
+    height: 270px;
     width: 330px;
     margin-left: -20px;
 }
@@ -64,17 +64,22 @@
 .boton-verde{
     border: 1px solid #178a27;
     background-color: #178a27;
-    border-radius: 10px;
+    border-radius: 5px;
     width: 100px;
     text-align: center;
+    padding: 8px 15px 8px 15px;
+    margin-left: 100px;
+    
 
 }
 .boton-azul{
     border: 1px solid #1686c1;
     background-color: #1686c1;
-    border-radius: 10px;
+    border-radius: 5px;
     width: 100px;
     text-align: center;
+    padding: 8px 15px 8px 15px;
+    margin-left: 100px;
 
 
 
@@ -82,11 +87,97 @@
 .boton-rojo{
     border: 1px solid #852406;
     background-color: #852406;
-    border-radius: 10px;
+    border-radius: 5px;
     width: 100px;
     text-align: center;
+    padding: 8px 15px 8px 15px;
+    margin-left: 100px;
+
+}
+
+.imagenes-5{
+    display: flex;
+    width: 1100px;
+    margin-left: 150px;
     
+}
+.imagenes-5-1{
+    background-color: #ddd9d9;
+    height: 270px;
+    width: 505px;
+    margin: 10px;
+    
+}
+.imagenes-5-texto{
+    font-size: 11.5px;
+    text-align: center;
+    width: 450px;
+    margin-left: 20px;
+    margin-top: 1px;
 
+}
+.imagenes-5-boton{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+    padding: 8px 15px 8px 15px;
+    margin-left: 190px;
 
+}
+.imagenes-7{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-top: 40px;
+    justify-content: center;
+    height: 310px;
+}
+.imagenes-7-1{
+    margin: 0px 10px 10px 1px;
+    height: 300px;
+    background-color: #ddd9d9 ;
+    width: 270px;
+
+}
+.imagenes-7-texto{
+    font-size: 11.5px;
+    text-align: center;
+    width: 230px;
+    margin-left: 20px;
+    margin-top: 1px;
+}
+.imagenes-7-boton{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+    padding: 8px 15px 8px 15px;
+    margin-left: 70px;
+
+}
+.imagenes-7-2{
+    height: 315px;
+    background-color: #ddd9d9 ;
+    width: 1000px;
+    margin-left: 173px;
+}
+.imagenes-7-2-texto{
+    font-size: 11.5px;
+    text-align: center;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: 1px;
+}
+.imagenes-7-2-boton{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+    padding: 8px 15px 8px 15px;
+    margin-left: 437px;
 
 }
