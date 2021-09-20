@@ -181,3 +181,28 @@
     margin-left: 437px;
 
 }
+.texto-formulario{
+    display: flex;
+    width: 600px;
+    border: 1px solid #ddd9d9;
+    background-color: #ddd9d9;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 350px;
+
+
+}
+.formulario{
+    display: flex;
+    width: 400px;
+    margin-left: 350px;
+    
+    
+}
+.formulario-contenido{
+    width: 250px;
+    height: 250px;
+    margin-right: 30px;
+    
+    
+}
